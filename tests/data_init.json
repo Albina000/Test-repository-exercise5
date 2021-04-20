@@ -1,0 +1,11 @@
+{
+    "issues": [
+        {
+            "id": 1,
+            "description": "Тест",
+            "severity": "Low",
+            "assignedTo": "Пользователь",
+            "status": "Open"
+        }
+    ]
+}
